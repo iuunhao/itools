@@ -1,0 +1,25 @@
+{
+  "name": "itools",
+  "version": "1.0.0",
+  "description": "itools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "itools": "./bin/itools.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuunhao/itools.git"
+  },
+  "keywords": [
+    "itools"
+  ],
+  "author": "iuunhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iuunhao/itools/issues"
+  },
+  "homepage": "https://github.com/iuunhao/itools#readme"
+}
